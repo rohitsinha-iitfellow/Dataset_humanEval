@@ -1,0 +1,302 @@
+{
+    "Snake_0.png": {
+        "filename": "Snake_0.png",
+        "difficulty": "easy",
+        "shape": "Snake",
+        "candidate_order": [
+            "mirror",
+            "mirror2",
+            "similar",
+            "rotate"
+        ],
+        "answer": "D",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TripleArm_1.png": {
+        "filename": "TripleArm_1.png",
+        "difficulty": "easy",
+        "shape": "TripleArm",
+        "candidate_order": [
+            "rotate",
+            "mirror2",
+            "mirror",
+            "similar"
+        ],
+        "answer": "A",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_85.png": {
+        "filename": "CornerStaircase_85.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "mirror2",
+            "similar",
+            "mirror",
+            "rotate"
+        ],
+        "answer": "D",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TripleArm_3.png": {
+        "filename": "TripleArm_3.png",
+        "difficulty": "easy",
+        "shape": "TripleArm",
+        "candidate_order": [
+            "rotate",
+            "mirror2",
+            "mirror",
+            "similar"
+        ],
+        "answer": "A",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TopPlate_4.png": {
+        "filename": "TopPlate_4.png",
+        "difficulty": "easy",
+        "shape": "TopPlate",
+        "candidate_order": [
+            "rotate",
+            "mirror2",
+            "mirror",
+            "similar"
+        ],
+        "answer": "A",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TripleArm_5.png": {
+        "filename": "TripleArm_5.png",
+        "difficulty": "easy",
+        "shape": "TripleArm",
+        "candidate_order": [
+            "similar",
+            "mirror",
+            "rotate",
+            "mirror2"
+        ],
+        "answer": "C",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_55.png": {
+        "filename": "CornerStaircase_55.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "rotate",
+            "similar",
+            "mirror2",
+            "mirror"
+        ],
+        "answer": "A",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "Snake_7.png": {
+        "filename": "Snake_7.png",
+        "difficulty": "easy",
+        "shape": "Snake",
+        "candidate_order": [
+            "mirror",
+            "similar",
+            "mirror2",
+            "rotate"
+        ],
+        "answer": "D",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TripleArm_8.png": {
+        "filename": "TripleArm_8.png",
+        "difficulty": "easy",
+        "shape": "TripleArm",
+        "candidate_order": [
+            "similar",
+            "rotate",
+            "mirror2",
+            "mirror"
+        ],
+        "answer": "B",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TopPlate_9.png": {
+        "filename": "TopPlate_9.png",
+        "difficulty": "easy",
+        "shape": "TopPlate",
+        "candidate_order": [
+            "similar",
+            "mirror2",
+            "mirror",
+            "rotate"
+        ],
+        "answer": "D",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_87.png": {
+        "filename": "CornerStaircase_87.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "rotate",
+            "mirror2",
+            "similar",
+            "mirror"
+        ],
+        "answer": "A",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_88.png": {
+        "filename": "CornerStaircase_88.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "similar",
+            "mirror2",
+            "rotate",
+            "mirror"
+        ],
+        "answer": "C",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TopPlate_12.png": {
+        "filename": "TopPlate_12.png",
+        "difficulty": "easy",
+        "shape": "TopPlate",
+        "candidate_order": [
+            "mirror",
+            "similar",
+            "mirror2",
+            "rotate"
+        ],
+        "answer": "D",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TopPlate_13.png": {
+        "filename": "TopPlate_13.png",
+        "difficulty": "easy",
+        "shape": "TopPlate",
+        "candidate_order": [
+            "rotate",
+            "mirror2",
+            "mirror",
+            "similar"
+        ],
+        "answer": "A",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_59.png": {
+        "filename": "CornerStaircase_59.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "mirror2",
+            "mirror",
+            "rotate",
+            "similar"
+        ],
+        "answer": "C",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_92.png": {
+        "filename": "CornerStaircase_92.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "mirror2",
+            "rotate",
+            "mirror",
+            "similar"
+        ],
+        "answer": "B",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_74.png": {
+        "filename": "CornerStaircase_74.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "mirror",
+            "mirror2",
+            "rotate",
+            "similar"
+        ],
+        "answer": "C",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TopPlate_17.png": {
+        "filename": "TopPlate_17.png",
+        "difficulty": "easy",
+        "shape": "TopPlate",
+        "candidate_order": [
+            "similar",
+            "mirror2",
+            "rotate",
+            "mirror"
+        ],
+        "answer": "C",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "CornerStaircase_97.png": {
+        "filename": "CornerStaircase_97.png",
+        "difficulty": "easy",
+        "shape": "CornerStaircase",
+        "candidate_order": [
+            "similar",
+            "mirror2",
+            "mirror",
+            "rotate"
+        ],
+        "answer": "D",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    },
+    "TopPlate_19.png": {
+        "filename": "TopPlate_19.png",
+        "difficulty": "easy",
+        "shape": "TopPlate",
+        "candidate_order": [
+            "mirror",
+            "rotate",
+            "mirror2",
+            "similar"
+        ],
+        "answer": "B",
+        "question": [
+            "Analyze the four figures labeled A, B, C, D in the image. Your goal is to identify which of these options is the correct rotational transformation fo the figure labeled original shape. Reason step by step for answering.\n    "
+        ]
+    }
+}

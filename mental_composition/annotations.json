@@ -1,0 +1,262 @@
+{
+    "39882_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cuboid_net",
+        "correct_shape": "cuboid",
+        "other_shapes": [
+            "cube",
+            "square_pyramid",
+            "cone"
+        ],
+        "net_color": "white",
+        "answer": "b",
+        "difficulty": "easy"
+    },
+    "04472_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "triangular_prism",
+            "square_pyramid",
+            "cube"
+        ],
+        "net_color": "white",
+        "answer": "b",
+        "difficulty": "easy"
+    },
+    "00442_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cuboid_net",
+        "correct_shape": "cuboid",
+        "other_shapes": [
+            "cone",
+            "square_pyramid",
+            "triangular_prism"
+        ],
+        "net_color": "white",
+        "answer": "a",
+        "difficulty": "easy"
+    },
+    "42202_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "triangular_prism",
+            "square_pyramid",
+            "cuboid"
+        ],
+        "net_color": "white",
+        "answer": "d",
+        "difficulty": "easy"
+    },
+    "40342_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "square_pyramid_net",
+        "correct_shape": "square_pyramid",
+        "other_shapes": [
+            "cuboid",
+            "cone",
+            "triangular_prism"
+        ],
+        "net_color": "white",
+        "answer": "a",
+        "difficulty": "easy"
+    },
+    "06043_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "cube",
+            "cuboid",
+            "triangular_prism"
+        ],
+        "net_color": "white",
+        "answer": "c",
+        "difficulty": "easy"
+    },
+    "39531_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "triangular_prism",
+            "cube",
+            "cuboid"
+        ],
+        "net_color": "white",
+        "answer": "c",
+        "difficulty": "easy"
+    },
+    "36197_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "cube",
+            "square_pyramid",
+            "triangular_prism"
+        ],
+        "net_color": "white",
+        "answer": "b",
+        "difficulty": "easy"
+    },
+    "06809_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "triangular_prism_net",
+        "correct_shape": "triangular_prism",
+        "other_shapes": [
+            "square_pyramid",
+            "cuboid",
+            "cube"
+        ],
+        "net_color": "white",
+        "answer": "a",
+        "difficulty": "easy"
+    },
+    "44425_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "square_pyramid",
+            "cube",
+            "cuboid"
+        ],
+        "net_color": "white",
+        "answer": "d",
+        "difficulty": "easy"
+    },
+    "23913_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "cuboid",
+            "triangular_prism",
+            "cube"
+        ],
+        "net_color": "white",
+        "answer": "c",
+        "difficulty": "easy"
+    },
+    "33972_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "triangular_prism_net",
+        "correct_shape": "triangular_prism",
+        "other_shapes": [
+            "cuboid",
+            "cone",
+            "square_pyramid"
+        ],
+        "net_color": "white",
+        "answer": "a",
+        "difficulty": "easy"
+    },
+    "34392_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cube_net",
+        "correct_shape": "cube",
+        "other_shapes": [
+            "square_pyramid",
+            "cuboid",
+            "triangular_prism"
+        ],
+        "net_color": "white",
+        "answer": "b",
+        "difficulty": "easy"
+    },
+    "34922_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "triangular_prism_net",
+        "correct_shape": "triangular_prism",
+        "other_shapes": [
+            "cuboid",
+            "cube",
+            "square_pyramid"
+        ],
+        "net_color": "white",
+        "answer": "b",
+        "difficulty": "easy"
+    },
+    "37210_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cuboid_net",
+        "correct_shape": "cuboid",
+        "other_shapes": [
+            "cone",
+            "square_pyramid",
+            "cube"
+        ],
+        "net_color": "white",
+        "answer": "c",
+        "difficulty": "easy"
+    },
+    "46581_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cuboid_net",
+        "correct_shape": "cuboid",
+        "other_shapes": [
+            "cone",
+            "cube",
+            "triangular_prism"
+        ],
+        "net_color": "white",
+        "answer": "d",
+        "difficulty": "easy"
+    },
+    "17199_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "cuboid",
+            "cube",
+            "square_pyramid"
+        ],
+        "net_color": "white",
+        "answer": "d",
+        "difficulty": "easy"
+    },
+    "22793_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "square_pyramid_net",
+        "correct_shape": "square_pyramid",
+        "other_shapes": [
+            "cube",
+            "cuboid",
+            "cone"
+        ],
+        "net_color": "white",
+        "answer": "c",
+        "difficulty": "easy"
+    },
+    "21168_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "cone_net",
+        "correct_shape": "cone",
+        "other_shapes": [
+            "triangular_prism",
+            "square_pyramid",
+            "cube"
+        ],
+        "net_color": "white",
+        "answer": "a",
+        "difficulty": "easy"
+    },
+    "21677_.png": {
+        "question": "Analyze the four figures labeled A, B, C, D in the image. These are 3D Figures. Your goal is to identify which of these options can be constructed by folding the top 2D figure labeled as Original Shape. Reason step by step for answering.\n    ",
+        "net": "triangular_prism_net",
+        "correct_shape": "triangular_prism",
+        "other_shapes": [
+            "cuboid",
+            "cube",
+            "cone"
+        ],
+        "net_color": "white",
+        "answer": "d",
+        "difficulty": "easy"
+    }
+}
