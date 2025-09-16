@@ -280,7 +280,7 @@ else:
         st.write(f"**Category**: {q['folder']}")
         
         # Display image
-        st.image(q["img_path"], caption=f"{q['folder']} - {q['img_name']}", width=1200)
+        st.image(q["img_path"], caption=f"{q['folder']} - {q['img_name']}", width=1000)
         
         # Display question
         st.write("**Question:**")
