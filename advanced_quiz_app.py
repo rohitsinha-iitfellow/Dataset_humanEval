@@ -10,7 +10,7 @@ from collections import defaultdict
 st.set_page_config(page_title="Advanced Perception Quiz", layout="wide")
 
 # Root directory
-root_dir = r"D:\Perception_dataset\Dataset_humanEval"
+root_dir = r"./"
 
 # Configuration
 IMAGES_PER_FOLDER = 5  # Number of images each user sees per folder
