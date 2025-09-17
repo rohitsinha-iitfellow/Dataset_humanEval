@@ -1,4 +1,9 @@
 {
+  "93009_spacing.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.The goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Choose the option from below. There is only one correct option.\n    ",
+    "concept": "Figure in option b violates the concept of spacing",
+    "violation": "b"
+  },
   "93008_spacing.png": {
     "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.The goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Choose the option from below. There is only one correct option.\n    ",
     "concept": "Figure in option b violates the concept of spacing",
@@ -80,6 +85,11 @@
     "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.The goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Choose the option from below. There is only one correct option.\n    ",
     "concept": "Figure in option c violates the concept of topology",
     "violation": "c"
+  },
+  "35025_border.png": {
+    "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.The goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Choose the option from below. There is only one correct option.\n    ",
+    "concept": "Figure in option d violates the concept of border",
+    "violation": "d"
   },
   "35024_border.png": {
     "question": "Analyze the six figures labeled A, B, C, D, E, and F in the image.The goal is to identify the underlying visual concept that is shared by the majority of these figures and then determine which figure does not adhere to this concept. Choose the option from below. There is only one correct option.\n    ",
