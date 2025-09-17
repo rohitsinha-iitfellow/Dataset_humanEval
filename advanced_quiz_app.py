@@ -288,10 +288,7 @@ else:
         
         # Determine answer options based on the answer format
         answer = q["answer"].strip()
-        if answer.startswith("(") and answer.endswith(")"):
-            # Format like "(a)", "(b)", "(c)", "(d)"
-            options = ["(a)", "(b)", "(c)", "(d)"]
-        elif answer.upper() in ["A", "B", "C", "D", "E", "F"]:
+        if q["folder"] in ["abstract","slippage"]:
             # Format like "A", "B", "C", "D"
             options = ["A", "B", "C", "D", "E", "F"]
         else:
