@@ -13,7 +13,7 @@ st.set_page_config(page_title="Advanced Perception Quiz", layout="wide")
 root_dir = r"./"
 
 # Configuration
-IMAGES_PER_FOLDER = 1  # Number of images each user sees per folder
+IMAGES_PER_FOLDER = 5  # Number of images each user sees per folder
 TRACKING_FILE = "user_image_tracking.json"  # File to track which images have been shown to which users
 RESULTS_FILE = "detailed_results.csv"  # CSV file for storing detailed results
 ANSWER_KEY = {
