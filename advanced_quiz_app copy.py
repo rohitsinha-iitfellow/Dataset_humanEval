@@ -399,31 +399,6 @@ else:
         #         mime="text/csv"
         #     )
 
-        # Show images, questions, and correct answers in a 5x8 grid
-        st.subheader("Review: Images, Questions & Correct Answers")
-        questions = st.session_state.get("questions", [])
-        num_rows = 5
-        num_cols = 8
-        grid_size = num_rows * num_cols
-        # Pad with empty dicts if less than grid_size
-        padded_questions = questions.copy()
-        if len(padded_questions) < grid_size:
-            padded_questions += [{} for _ in range(grid_size - len(padded_questions))]
-        for row in range(num_rows):
-            cols = st.columns(num_cols)
-            for col_idx in range(num_cols):
-                idx = row * num_cols + col_idx
-                q = padded_questions[idx]
-                if q:
-                    with cols[col_idx]:
-                        st.image(q["img_path"], use_container_width=True)
-                        st.caption(f"{q['folder']} - {q['img_name']}")
-                        st.markdown(f"**Q:** {q['question']}")
-                        st.markdown(f"**Correct:** {q['answer']}")
-                else:
-                    with cols[col_idx]:
-                        st.empty()
-
 # Sidebar with statistics (for admin/researcher view)
 with st.sidebar:
     st.title("Quiz Statistics")
