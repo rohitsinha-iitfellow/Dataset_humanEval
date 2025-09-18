@@ -296,11 +296,11 @@ else:
             options = ["A", "B", "C", "D"]
         
         # Answer selection
-        choice = st.radio("Select your answer:", options, key=f"q_{st.session_state.current_question}")
+        choice = st.radio("Select your answer:", options, key=f"q_{st.session_state.current_question}",index=None)
         
         col1, col2 = st.columns([1, 4])
         with col1:
-            if st.button("Submit Answer", type="primary"):
+            if st.button("Submit Answer", type="primary",disabled=(choice is None)):
                 # Calculate time taken
                 time_taken = time.time() - st.session_state.question_start_time
                 
