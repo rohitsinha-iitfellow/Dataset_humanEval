@@ -1,47 +1,32 @@
 {
   "abstract": {
     "54246202_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "42862086_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "29622236_AP.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "79742938_AP.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "14844252_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "21788494_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "10321368_AP.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654",
-        "rororor_1758182025"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "47097405_AP.png": {
       "shown_count": 0,
@@ -52,10 +37,8 @@
       "shown_to_users": []
     },
     "68322583_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "54296320_AP.png": {
       "shown_count": 0,
@@ -74,46 +57,32 @@
       "shown_to_users": []
     },
     "46880300_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "03226827_AP.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "20217015_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "15337379_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "36179703_AP.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rohit_1758180654",
-        "rrrr_1758181612"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "30631731_AP.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "70898806_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "04959916_AP.png": {
       "shown_count": 0,
@@ -124,29 +93,26 @@
       "shown_to_users": []
     },
     "03043175_AP.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
-    },
-    "45225917_AP.png": {
       "shown_count": 0,
       "shown_to_users": []
+    },
+    "45225917_AP.png": {
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758184085"
+      ]
     }
   },
   "dynamic_isomorph": {
     "pair_00_wiggle_mirror_x_grid.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "rohit_1758180654"
+        "rohit_1758184085"
       ]
     },
     "pair_01_rotate_tilt_grid.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rohit_1758180654",
-        "rororor_1758182025"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_02_contract_y_rotate_back_and_forth_grid.png": {
       "shown_count": 0,
@@ -157,54 +123,36 @@
       "shown_to_users": []
     },
     "pair_04_tilt_stretch_x_grid.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758181612"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_05_contract_x_bounce_grid.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "pair_06_bounce_scale_grid.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_07_wiggle_mirror_x_grid.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_08_bounce_wiggle_grid.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_09_tilt_contract_x_grid.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_10_swirl_stretch_x_grid.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_11_rotate_back_and_forth_jump_grid.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_12_flip_tilt_grid.png": {
       "shown_count": 0,
@@ -223,29 +171,20 @@
       "shown_to_users": []
     },
     "pair_16_pulsate_flip_grid.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_17_stretch_x_tilt_grid.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_18_scale_rotate_grid.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "pair_19_compress_and_stretch_mirror_y_grid.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     }
   },
   "hierarchial_isomorph": {
@@ -260,16 +199,12 @@
     "75060685.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "rrrr_1758131439"
+        "rohit_1758184085"
       ]
     },
     "30515220.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654",
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "79010432.png": {
       "shown_count": 0,
@@ -280,24 +215,16 @@
       "shown_to_users": []
     },
     "98089324.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "96218518.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rororor_1758182025"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "70654051.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "20585277.png": {
       "shown_count": 0,
@@ -308,57 +235,40 @@
       "shown_to_users": []
     },
     "03450541.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "65277584.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "92845115.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "27570596.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rohit_1758180654",
-        "rrrr_1758181612"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "58202970.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "56909275.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "85654310.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "44739473.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "27155188.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     }
   },
   "mental_composition": {
@@ -371,10 +281,8 @@
       "shown_to_users": []
     },
     "27095_.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "36516_.png": {
       "shown_count": 0,
@@ -385,72 +293,49 @@
       "shown_to_users": []
     },
     "24804_.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "86459_.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "47827_.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758181612",
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "12670_.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "92388_.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "89959_.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "73782_.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "86241_.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "37066_.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "81968_.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "24756_.png": {
-      "shown_count": 3,
+      "shown_count": 1,
       "shown_to_users": [
-        "rrrr_1758131439",
-        "rohit_1758180654",
-        "rororor_1758182025"
+        "rohit_1758184085"
       ]
     },
     "51245_.png": {
@@ -462,11 +347,8 @@
       "shown_to_users": []
     },
     "72575_.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "56184_.png": {
       "shown_count": 0,
@@ -475,46 +357,36 @@
   },
   "mental_rotation": {
     "Snake_0.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "TripleArm_1.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "HookedCorner_2.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "TripleArm_3.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "TopPlate_4.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rororor_1758182025"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "TripleArm_5.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758181612"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "CornerStaircase_6.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "Snake_7.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "TripleArm_8.png": {
       "shown_count": 0,
@@ -523,129 +395,92 @@
     "TopPlate_9.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "eeee_1758131422"
+        "rohit_1758184085"
       ]
     },
     "Zigzag_10.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
-    "HookedCorner_11.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+    "TopPlate_11.png": {
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "SnakeComplex1_12.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
-    "CornerStaircase_13.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+    "TripleArm_13.png": {
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "Zigzag_14.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rohit_1758180654",
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
-    "Snake_15.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+    "TopPlate_15.png": {
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "Zigzag_16.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
-    "TopPlate_17.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+    "CornerStaircase_17.png": {
+      "shown_count": 0,
+      "shown_to_users": []
     },
-    "TopPlate_18.png": {
+    "SnakeComplex1_18.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "CornerStaircase_19.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     }
   },
   "paper_folding": {
     "1_fold-2_holes-1.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "2_fold-2_holes-1.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "3_fold-2_holes-1.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
-    },
-    "4_fold-2_holes-1.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
-    "5_fold-2_holes-1.png": {
+    "4_fold-2_holes-1.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "rohit_1758180654"
+        "rohit_1758184085"
       ]
     },
+    "5_fold-2_holes-1.png": {
+      "shown_count": 0,
+      "shown_to_users": []
+    },
     "6_fold-2_holes-1.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "7_fold-2_holes-1.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "8_fold-2_holes-1.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758181612",
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "9_fold-2_holes-1.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "10_fold-2_holes-1.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "11_fold-2_holes-1.png": {
       "shown_count": 0,
@@ -660,53 +495,38 @@
       "shown_to_users": []
     },
     "14_fold-2_holes-1.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "15_fold-2_holes-1.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "16_fold-2_holes-1.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rororor_1758182025"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "17_fold-2_holes-1.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654",
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "18_fold-2_holes-1.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "19_fold-2_holes-1.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "20_fold-2_holes-1.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     }
   },
   "slippage": {
     "93009_spacing.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "93008_spacing.png": {
       "shown_count": 0,
@@ -725,94 +545,66 @@
       "shown_to_users": []
     },
     "95413_number.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "45284_number.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "05507_enclosure.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "52440_enclosure.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "22948_symmetry.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "03972_symmetry.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rororor_1758182025"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "90229_word_symmetry.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "51138_word_symmetry.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "80739_hollowness.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "eeee_1758131422"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "63207_hollowness.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "73653_topology.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "99661_topology.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "35025_border.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rrrr_1758181612",
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "35024_border.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "eeee_1758131422"
+        "rohit_1758184085"
       ]
     },
     "09238_border.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     }
   },
   "symmetric_isomorph": {
@@ -841,17 +633,12 @@
       "shown_to_users": []
     },
     "77752047.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rohit_1758180654",
-        "rororo_1758181921"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "83242102.png": {
-      "shown_count": 1,
-      "shown_to_users": [
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "80876038.png": {
       "shown_count": 0,
@@ -862,34 +649,20 @@
       "shown_to_users": []
     },
     "31611724.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "43953394.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "98593174.png": {
-      "shown_count": 3,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rohit_1758180654",
-        "rrrr_1758181612"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "35290422.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rororor_1758182025"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "83673657.png": {
       "shown_count": 0,
@@ -900,29 +673,22 @@
       "shown_to_users": []
     },
     "88516060.png": {
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758184085"
+      ]
+    },
+    "52717744.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
-    "52717744.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rohit_1758180654"
-      ]
-    },
     "92519254.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "rrrr_1758131439",
-        "rorororor_1758182189"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     },
     "38347359.png": {
-      "shown_count": 2,
-      "shown_to_users": [
-        "eeee_1758131422",
-        "rrrr_1758131439"
-      ]
+      "shown_count": 0,
+      "shown_to_users": []
     }
   }
 }
