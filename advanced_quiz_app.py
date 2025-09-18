@@ -200,6 +200,9 @@ if not st.session_state.setup_done:
     st.markdown("""
     ### Welcome to the Advanced Perception Quiz
     
+    IMPORTANT: The quiz is best taken on a desktop or laptop with a stable internet connection.
+    If the user takes it on a mobile device, the layout may be suboptimal, and experience may be affected.            
+    
     This quiz will test your visual perception abilities across different cognitive tasks.
     You will see 5 images from each category, and your responses and reaction times will be recorded.
     """)
