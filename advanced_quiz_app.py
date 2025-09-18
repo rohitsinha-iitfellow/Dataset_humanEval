@@ -13,10 +13,19 @@ st.set_page_config(page_title="Advanced Perception Quiz", layout="wide")
 root_dir = r"./"
 
 # Configuration
-IMAGES_PER_FOLDER = 5  # Number of images each user sees per folder
+IMAGES_PER_FOLDER = 1  # Number of images each user sees per folder
 TRACKING_FILE = "user_image_tracking.json"  # File to track which images have been shown to which users
 RESULTS_FILE = "detailed_results.csv"  # CSV file for storing detailed results
-
+ANSWER_KEY = {
+    "abstract":"answer",
+    "dynamic_isomorph":"fifth_label",
+    "hierarchial_isomorph": "answer",
+    "mental_composition": "answer",
+    "mental_rotation" : "answer",
+    "paper_folding":"correct_option",
+    "slippage":"violation",
+    "symmetric_isomorph":"asymmetric_label"
+}
 class QuizManager:
     def __init__(self):
         self.all_folders = self._get_all_folders()
@@ -55,7 +64,7 @@ class QuizManager:
                     folder_images[img_name] = {
                         "img_path": img_path,
                         "question": question_text,
-                        "answer": info.get("answer", "")
+                        "answer": info.get(ANSWER_KEY[folder], "")
                     }
             
             all_images[folder] = folder_images
@@ -246,7 +255,7 @@ if not st.session_state.setup_done:
                     "img_name": img_name,
                     "img_path": img_data["img_path"],
                     "question": img_data["question"],
-                    "answer": img_data["answer"]
+                    "answer": img_data["answer"] # ANSWER_KEY[folder]
                 })
         
         # Shuffle questions to randomize order across folders
@@ -329,7 +338,7 @@ else:
         folder_stats = defaultdict(lambda: {"correct": 0, "total": 0})
         
         for i, q in enumerate(st.session_state.questions):
-            is_correct = st.session_state.responses[i] == q["answer"]
+            is_correct = st.session_state.responses[i] == q["answer"].strip("()").upper()
             if is_correct:
                 correct_count += 1
             
