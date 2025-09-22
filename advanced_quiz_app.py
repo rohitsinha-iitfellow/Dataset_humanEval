@@ -93,6 +93,18 @@ class QuizManager:
         with open(TRACKING_FILE, 'w') as f:
             json.dump(self.tracking_data, f, indent=2)
     
+    def get_calibration_images(self):
+        """Get one sample image from each folder for calibration"""
+        calibration_images = {}
+        
+        for folder in self.all_folders:
+            # Get the first available image from each folder for calibration
+            if folder in self.all_images and self.all_images[folder]:
+                img_name = list(self.all_images[folder].keys())[0]
+                calibration_images[folder] = [img_name]
+        
+        return calibration_images
+    
     def get_images_for_user(self, user_id):
         """Get images for a specific user ensuring fair distribution"""
         user_images = {}
@@ -193,6 +205,8 @@ if "quiz_manager" not in st.session_state:
 # Initialize session state
 if "setup_done" not in st.session_state:
     st.session_state.setup_done = False
+if "calibration_done" not in st.session_state:
+    st.session_state.calibration_done = False
 
 if not st.session_state.setup_done:
     st.title("Advanced Perception Quiz Setup")
@@ -235,7 +249,7 @@ if not st.session_state.setup_done:
     
     st.info(f"You will answer questions from {len(st.session_state.quiz_manager.all_folders)} different categories: {', '.join(st.session_state.quiz_manager.all_folders)}")
     
-    if st.button("Start Test", type="primary") and name:
+    if st.button("Start Calibration", type="primary") and name:
         # Generate unique user ID
         user_id = f"{name}_{int(time.time())}"
         
@@ -245,31 +259,128 @@ if not st.session_state.setup_done:
         st.session_state.user_id = user_id
         st.session_state.setup_done = True
         
-        # Get images for this user
-        st.session_state.selected_images = st.session_state.quiz_manager.get_images_for_user(user_id)
+        # Get calibration images (one from each folder)
+        st.session_state.calibration_images = st.session_state.quiz_manager.get_calibration_images()
         
-        # Create question list from selected images
-        questions = []
+        # Create calibration questions
+        calibration_questions = []
         for folder in st.session_state.quiz_manager.all_folders:
-            for img_name in st.session_state.selected_images[folder]:
-                img_data = st.session_state.quiz_manager.all_images[folder][img_name]
-                questions.append({
-                    "folder": folder,
-                    "img_name": img_name,
-                    "img_path": img_data["img_path"],
-                    "question": img_data["question"],
-                    "answer": img_data["answer"] # ANSWER_KEY[folder]
-                })
+            if folder in st.session_state.calibration_images:
+                for img_name in st.session_state.calibration_images[folder]:
+                    img_data = st.session_state.quiz_manager.all_images[folder][img_name]
+                    calibration_questions.append({
+                        "folder": folder,
+                        "img_name": img_name,
+                        "img_path": img_data["img_path"],
+                        "question": img_data["question"],
+                        "answer": img_data["answer"]
+                    })
         
-        # Shuffle questions to randomize order across folders
-        random.shuffle(questions)
-        st.session_state.questions = questions
-        st.session_state.current_question = 0
-        st.session_state.responses = []
-        st.session_state.times = []
-        st.session_state.question_start_time = time.time()
+        st.session_state.calibration_questions = calibration_questions
+        st.session_state.current_calibration = 0
         
         st.rerun()
+
+elif st.session_state.setup_done and not st.session_state.calibration_done:
+    # Calibration phase
+    st.title("📋 Calibration - Sample Questions")
+    
+    st.markdown("""
+    ### Before we start the actual test, let's see some sample questions!
+    
+    The following are sample questions from each category to help you understand what to expect.
+    **These are just for practice - your answers won't be recorded.**
+    
+    Take your time to understand the format and types of questions.
+    """)
+    
+    if "current_calibration" not in st.session_state:
+        st.session_state.current_calibration = 0
+    
+    if st.session_state.current_calibration < len(st.session_state.calibration_questions):
+        q = st.session_state.calibration_questions[st.session_state.current_calibration]
+        
+        # Progress indicator for calibration
+        progress = (st.session_state.current_calibration + 1) / len(st.session_state.calibration_questions)
+        st.progress(progress)
+        st.write(f"Sample {st.session_state.current_calibration + 1} of {len(st.session_state.calibration_questions)}")
+        st.write(f"**Category**: {q['folder']}")
+        
+        # Display image
+        st.image(q["img_path"], caption=f"Sample from {q['folder']}", width=1000)
+        
+        # Display question
+        st.write("**Sample Question:**")
+        st.write(q["question"])
+        
+        # Determine answer options based on the answer format
+        answer = q["answer"].strip()
+        if q["folder"] in ["abstract","slippage"]:
+            # Format like "A", "B", "C", "D"
+            options = ["A", "B", "C", "D", "E", "F"]
+        else:
+            # Default fallback
+            options = ["A", "B", "C", "D"]
+        
+        # Answer selection (for practice only)
+        choice = st.radio("Try selecting an answer (just for practice):", options, key=f"calibration_{st.session_state.current_calibration}", index=None)
+        
+        col1, col2 = st.columns([1, 4])
+        with col1:
+            if st.button("Next Sample", type="primary"):
+                st.session_state.current_calibration += 1
+                st.rerun()
+        
+        with col2:
+            if choice is not None:
+                if choice == answer.strip("()").upper():
+                    st.success("✅ Correct! Good job!")
+                else:
+                    st.info(f"💡 The correct answer is {answer.strip('()').upper()}")
+    
+    else:
+        # Calibration completed
+        st.success("🎉 Calibration completed!")
+        st.markdown("""
+        ### Great! Now you know what to expect.
+        
+        **Important reminders for the actual test:**
+        - You will see 5 questions from each category
+        - Your response time will be recorded
+        - You cannot go back to previous questions
+        - Answer as accurately as possible
+        
+        Ready to start the real test?
+        """)
+        
+        if st.button("Start Actual Test", type="primary"):
+            st.session_state.calibration_done = True
+            
+            # Now get actual images for this user
+            st.session_state.selected_images = st.session_state.quiz_manager.get_images_for_user(st.session_state.user_id)
+            
+            # Create question list from selected images
+            questions = []
+            for folder in st.session_state.quiz_manager.all_folders:
+                for img_name in st.session_state.selected_images[folder]:
+                    img_data = st.session_state.quiz_manager.all_images[folder][img_name]
+                    questions.append({
+                        "folder": folder,
+                        "img_name": img_name,
+                        "img_path": img_data["img_path"],
+                        "question": img_data["question"],
+                        "answer": img_data["answer"]
+                    })
+            
+            # Shuffle questions to randomize order across folders
+            random.shuffle(questions)
+            st.session_state.questions = questions
+            st.session_state.current_question = 0
+            st.session_state.responses = []
+            st.session_state.times = []
+            st.session_state.question_start_time = time.time()
+            
+            st.rerun()
 
 else:
     # Quiz interface

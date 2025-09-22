@@ -13,13 +13,16 @@
       "shown_to_users": []
     },
     "86306308_AP.png": {
-      "shown_count": 0,
-      "shown_to_users": []
-    },
-    "91104492_AP.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "testuser_1758205798"
+        "test_1758556213"
+      ]
+    },
+    "91104492_AP.png": {
+      "shown_count": 2,
+      "shown_to_users": [
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "42088615_AP.png": {
@@ -37,17 +40,20 @@
       "shown_to_users": []
     },
     "67117082_AP.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "70691650_AP.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "89695545_AP.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "78046588_AP.png": {
@@ -57,9 +63,10 @@
       ]
     },
     "22844791_AP.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "85290679_AP.png": {
@@ -69,8 +76,10 @@
   },
   "dynamic_isomorph": {
     "pair_00_wiggle_mirror_x_grid.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "pair_01_rotate_tilt_grid.png": {
       "shown_count": 0,
@@ -85,9 +94,10 @@
       "shown_to_users": []
     },
     "pair_04_tilt_stretch_x_grid.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "pair_05_contract_x_bounce_grid.png": {
@@ -121,8 +131,10 @@
       "shown_to_users": []
     },
     "pair_12_flip_tilt_grid.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "pair_13_stretch_y_wiggle_grid.png": {
       "shown_count": 0,
@@ -137,15 +149,17 @@
       "shown_to_users": []
     },
     "pair_16_pulsate_flip_grid.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "pair_17_stretch_x_tilt_grid.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "pair_18_scale_rotate_grid.png": {
@@ -169,8 +183,10 @@
       "shown_to_users": []
     },
     "75060685.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "30515220.png": {
       "shown_count": 0,
@@ -199,8 +215,10 @@
       "shown_to_users": []
     },
     "20585277.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "04303054.png": {
       "shown_count": 0,
@@ -211,9 +229,10 @@
       "shown_to_users": []
     },
     "65277584.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "92845115.png": {
@@ -223,12 +242,16 @@
       ]
     },
     "27570596.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "58202970.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "56909275.png": {
       "shown_count": 0,
@@ -257,16 +280,20 @@
       "shown_to_users": []
     },
     "68308_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "27095_.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "36516_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "44249_.png": {
       "shown_count": 0,
@@ -285,8 +312,10 @@
       "shown_to_users": []
     },
     "12670_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "92388_.png": {
       "shown_count": 1,
@@ -311,8 +340,10 @@
       "shown_to_users": []
     },
     "81968_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "24756_.png": {
       "shown_count": 1,
@@ -325,9 +356,10 @@
       "shown_to_users": []
     },
     "45473_.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "72575_.png": {
@@ -361,9 +393,10 @@
       "shown_to_users": []
     },
     "TopPlate_4.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "TripleArm_5.png": {
@@ -391,8 +424,10 @@
       ]
     },
     "Zigzag_10.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "TopPlate_11.png": {
       "shown_count": 0,
@@ -421,18 +456,23 @@
       "shown_to_users": []
     },
     "CornerStaircase_17.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "SnakeComplex1_18.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "CornerStaircase_19.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     }
   },
   "paper_folding": {
@@ -457,8 +497,10 @@
       "shown_to_users": []
     },
     "5_fold-2_holes-1.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "6_fold-2_holes-1.png": {
       "shown_count": 0,
@@ -477,8 +519,10 @@
       "shown_to_users": []
     },
     "10_fold-2_holes-1.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "11_fold-2_holes-1.png": {
       "shown_count": 0,
@@ -493,9 +537,10 @@
       "shown_to_users": []
     },
     "14_fold-2_holes-1.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "15_fold-2_holes-1.png": {
@@ -503,13 +548,16 @@
       "shown_to_users": []
     },
     "16_fold-2_holes-1.png": {
-      "shown_count": 0,
-      "shown_to_users": []
-    },
-    "17_fold-2_holes-1.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "testuser_1758205798"
+        "test_1758556213"
+      ]
+    },
+    "17_fold-2_holes-1.png": {
+      "shown_count": 2,
+      "shown_to_users": [
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "18_fold-2_holes-1.png": {
@@ -551,13 +599,16 @@
       ]
     },
     "95413_number.png": {
-      "shown_count": 0,
-      "shown_to_users": []
-    },
-    "45284_number.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "testuser_1758205798"
+        "test_1758556213"
+      ]
+    },
+    "45284_number.png": {
+      "shown_count": 2,
+      "shown_to_users": [
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "05507_enclosure.png": {
@@ -585,12 +636,16 @@
       ]
     },
     "51138_word_symmetry.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "80739_hollowness.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "63207_hollowness.png": {
       "shown_count": 0,
@@ -603,8 +658,10 @@
       ]
     },
     "99661_topology.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "35025_border.png": {
       "shown_count": 0,
@@ -621,8 +678,10 @@
   },
   "symmetric_isomorph": {
     "33754330.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "62994680.png": {
       "shown_count": 0,
@@ -657,14 +716,17 @@
       "shown_to_users": []
     },
     "80876038.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "test_1758556213"
       ]
     },
     "87558867.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "31611724.png": {
       "shown_count": 1,
@@ -673,8 +735,10 @@
       ]
     },
     "43953394.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     },
     "98593174.png": {
       "shown_count": 0,
@@ -707,8 +771,10 @@
       "shown_to_users": []
     },
     "38347359.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "test_1758556213"
+      ]
     }
   }
 }
