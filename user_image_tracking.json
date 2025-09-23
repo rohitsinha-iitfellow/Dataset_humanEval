@@ -19,10 +19,11 @@
       ]
     },
     "91104492_AP.png": {
-      "shown_count": 2,
+      "shown_count": 3,
       "shown_to_users": [
         "testuser_1758205798",
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "42088615_AP.png": {
@@ -30,9 +31,10 @@
       "shown_to_users": []
     },
     "49405654_AP.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "rohit_1758556458"
       ]
     },
     "19587472_AP.png": {
@@ -40,14 +42,17 @@
       "shown_to_users": []
     },
     "67117082_AP.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "70691650_AP.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "89695545_AP.png": {
       "shown_count": 2,
@@ -57,9 +62,10 @@
       ]
     },
     "78046588_AP.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "rohit_1758556458"
       ]
     },
     "22844791_AP.png": {
@@ -109,16 +115,20 @@
       "shown_to_users": []
     },
     "pair_07_wiggle_mirror_x_grid.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "pair_08_bounce_wiggle_grid.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "pair_09_tilt_contract_x_grid.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "pair_10_swirl_stretch_x_grid.png": {
       "shown_count": 1,
@@ -137,8 +147,10 @@
       ]
     },
     "pair_13_stretch_y_wiggle_grid.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "pair_14_spin_and_bounce_jump_grid.png": {
       "shown_count": 0,
@@ -149,10 +161,11 @@
       "shown_to_users": []
     },
     "pair_16_pulsate_flip_grid.png": {
-      "shown_count": 2,
+      "shown_count": 3,
       "shown_to_users": [
         "testuser_1758205798",
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "pair_17_stretch_x_tilt_grid.png": {
@@ -163,9 +176,10 @@
       ]
     },
     "pair_18_scale_rotate_grid.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "rohit_1758556458"
       ]
     },
     "pair_19_compress_and_stretch_mirror_y_grid.png": {
@@ -179,8 +193,10 @@
       "shown_to_users": []
     },
     "81412478.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "75060685.png": {
       "shown_count": 1,
@@ -197,8 +213,10 @@
       "shown_to_users": []
     },
     "43410369.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "98089324.png": {
       "shown_count": 0,
@@ -211,8 +229,10 @@
       ]
     },
     "70654051.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "20585277.png": {
       "shown_count": 1,
@@ -242,15 +262,17 @@
       ]
     },
     "27570596.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "58202970.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "56909275.png": {
@@ -276,8 +298,10 @@
   },
   "mental_composition": {
     "28437_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "68308_.png": {
       "shown_count": 1,
@@ -290,9 +314,10 @@
       "shown_to_users": []
     },
     "36516_.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "44249_.png": {
@@ -300,8 +325,10 @@
       "shown_to_users": []
     },
     "24804_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "86459_.png": {
       "shown_count": 0,
@@ -332,12 +359,16 @@
       "shown_to_users": []
     },
     "86241_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "37066_.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "81968_.png": {
       "shown_count": 1,
@@ -385,12 +416,16 @@
       "shown_to_users": []
     },
     "HookedCorner_2.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "TripleArm_3.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "TopPlate_4.png": {
       "shown_count": 2,
@@ -404,17 +439,20 @@
       "shown_to_users": []
     },
     "CornerStaircase_6.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "Snake_7.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "TripleArm_8.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "rohit_1758556458"
       ]
     },
     "TopPlate_9.png": {
@@ -448,8 +486,10 @@
       ]
     },
     "TopPlate_15.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "Zigzag_16.png": {
       "shown_count": 0,
@@ -493,8 +533,10 @@
       ]
     },
     "4_fold-2_holes-1.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "5_fold-2_holes-1.png": {
       "shown_count": 1,
@@ -515,8 +557,10 @@
       "shown_to_users": []
     },
     "9_fold-2_holes-1.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "10_fold-2_holes-1.png": {
       "shown_count": 1,
@@ -529,8 +573,10 @@
       "shown_to_users": []
     },
     "12_fold-2_holes-1.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "13_fold-2_holes-1.png": {
       "shown_count": 0,
@@ -554,10 +600,11 @@
       ]
     },
     "17_fold-2_holes-1.png": {
-      "shown_count": 2,
+      "shown_count": 3,
       "shown_to_users": [
         "testuser_1758205798",
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "18_fold-2_holes-1.png": {
@@ -567,8 +614,10 @@
       ]
     },
     "19_fold-2_holes-1.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "20_fold-2_holes-1.png": {
       "shown_count": 0,
@@ -577,16 +626,20 @@
   },
   "slippage": {
     "93009_spacing.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "93008_spacing.png": {
       "shown_count": 0,
       "shown_to_users": []
     },
     "76065_spacing.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "75745_alignment.png": {
       "shown_count": 0,
@@ -605,10 +658,11 @@
       ]
     },
     "45284_number.png": {
-      "shown_count": 2,
+      "shown_count": 3,
       "shown_to_users": [
         "testuser_1758205798",
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "05507_enclosure.png": {
@@ -616,9 +670,10 @@
       "shown_to_users": []
     },
     "52440_enclosure.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "rohit_1758556458"
       ]
     },
     "22948_symmetry.png": {
@@ -668,8 +723,10 @@
       "shown_to_users": []
     },
     "35024_border.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "09238_border.png": {
       "shown_count": 0,
@@ -684,8 +741,10 @@
       ]
     },
     "62994680.png": {
-      "shown_count": 0,
-      "shown_to_users": []
+      "shown_count": 1,
+      "shown_to_users": [
+        "rohit_1758556458"
+      ]
     },
     "27889579.png": {
       "shown_count": 0,
@@ -696,19 +755,23 @@
       "shown_to_users": []
     },
     "49663193.png": {
-      "shown_count": 0,
-      "shown_to_users": []
-    },
-    "80831367.png": {
       "shown_count": 1,
       "shown_to_users": [
-        "testuser_1758205798"
+        "rohit_1758556458"
+      ]
+    },
+    "80831367.png": {
+      "shown_count": 2,
+      "shown_to_users": [
+        "testuser_1758205798",
+        "rohit_1758556458"
       ]
     },
     "77752047.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "testuser_1758205798"
+        "testuser_1758205798",
+        "rohit_1758556458"
       ]
     },
     "83242102.png": {
@@ -735,9 +798,10 @@
       ]
     },
     "43953394.png": {
-      "shown_count": 1,
+      "shown_count": 2,
       "shown_to_users": [
-        "test_1758556213"
+        "test_1758556213",
+        "rohit_1758556458"
       ]
     },
     "98593174.png": {

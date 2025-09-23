@@ -342,7 +342,7 @@ elif st.session_state.setup_done and not st.session_state.calibration_done:
         # Calibration completed
         st.success("🎉 Calibration completed!")
         st.markdown("""
-        ### Great! Now you know what to expect.
+        ### Great! Now you know what to expect..
         
         **Important reminders for the actual test:**
         - You will see 5 questions from each category
